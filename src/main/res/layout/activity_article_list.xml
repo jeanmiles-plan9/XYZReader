@@ -7,14 +7,14 @@
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
         android:layout_height="112dp"
-        android:background="?colorPrimary"
+        android:background="@color/theme_app_primary"
         android:theme="@style/Theme.Bacon">
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:layout_gravity="bottom"
+            android:layout_gravity="top"
             android:elevation="8dp"
             android:theme="@style/Theme.Bacon" />
 
