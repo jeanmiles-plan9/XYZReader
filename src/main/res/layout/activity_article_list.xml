@@ -15,7 +15,6 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:layout_gravity="top"
-            android:elevation="8dp"
             android:theme="@style/Theme.Bacon" />
 
         <ImageView
